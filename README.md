@@ -20,3 +20,6 @@ do {
 
     }
 printf ("la moyenne  des entiers pairs est : %d \n", M);
+
+return 0;
+}
